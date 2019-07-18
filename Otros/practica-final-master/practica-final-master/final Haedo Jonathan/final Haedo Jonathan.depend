@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1532623574 source:d:\multitask\haedo jonathan\final haedo jonathan\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1532635576 d:\multitask\haedo jonathan\final haedo jonathan\arraylist.h
+
+1532647990 source:d:\multitask\haedo jonathan\final haedo jonathan\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"reparto.h"
+	"parser.h"
+	"ArrayList.h"
+
+1531419524 d:\multitask\haedo jonathan\final haedo jonathan\utn.h
+
+1532642193 d:\multitask\haedo jonathan\final haedo jonathan\parser.h
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+
+1532642303 source:d:\multitask\haedo jonathan\final haedo jonathan\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"reparto.h"
+
+1532648040 d:\multitask\haedo jonathan\final haedo jonathan\reparto.h
+	"utn.h"
+	"reparto.h"
+	"parser.h"
+	"ArrayList.h"
+
+1532648429 source:d:\multitask\haedo jonathan\final haedo jonathan\reparto.c
+	"reparto.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1532642110 source:d:\multitask\haedo jonathan\final haedo jonathan\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1532646368 source:d:\multitask\haedo jonathan\final haedo jonathan\localidades.c
+	"localidades.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1532646368 d:\multitask\haedo jonathan\final haedo jonathan\localidades.h
+
+1532623574 source:c:\users\haedo jonathan\desktop\final haedo jonathan\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1532635576 c:\users\haedo jonathan\desktop\final haedo jonathan\arraylist.h
+
+1532642304 source:c:\users\haedo jonathan\desktop\final haedo jonathan\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"reparto.h"
+
+1532648042 c:\users\haedo jonathan\desktop\final haedo jonathan\reparto.h
+	"utn.h"
+	"reparto.h"
+	"parser.h"
+	"ArrayList.h"
+
+1531419524 c:\users\haedo jonathan\desktop\final haedo jonathan\utn.h
+
+1532642194 c:\users\haedo jonathan\desktop\final haedo jonathan\parser.h
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+
+1532642112 source:c:\users\haedo jonathan\desktop\final haedo jonathan\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+

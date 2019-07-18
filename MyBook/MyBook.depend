@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1532607463 source:c:\users\user\downloads\programacion\utn\programacion 1\workspace\mybook\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1531445496 c:\users\user\downloads\programacion\utn\programacion 1\workspace\mybook\arraylist.h
+
+1563404096 source:c:\users\user\downloads\programacion\utn\programacion 1\workspace\mybook\feed.c
+	"feed.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1563404096 c:\users\user\downloads\programacion\utn\programacion 1\workspace\mybook\feed.h
+
+1563407371 source:c:\users\user\downloads\programacion\utn\programacion 1\workspace\mybook\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"parser.h"
+	"funciones.h"
+	"utn.h"
+
+1563404075 c:\users\user\downloads\programacion\utn\programacion 1\workspace\mybook\parser.h
+
+1563410330 c:\users\user\downloads\programacion\utn\programacion 1\workspace\mybook\funciones.h
+	"ArrayList.h"
+
+1563402254 source:c:\users\user\downloads\programacion\utn\programacion 1\workspace\mybook\post.c
+	"post.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1563402254 c:\users\user\downloads\programacion\utn\programacion 1\workspace\mybook\post.h
+
+1563402214 source:c:\users\user\downloads\programacion\utn\programacion 1\workspace\mybook\usuario.c
+	"usuario.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1563402214 c:\users\user\downloads\programacion\utn\programacion 1\workspace\mybook\usuario.h
+
+1563406267 source:c:\users\user\downloads\programacion\utn\programacion 1\workspace\mybook\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1531419524 c:\users\user\downloads\programacion\utn\programacion 1\workspace\mybook\utn.h
+
+1563410626 source:c:\users\user\downloads\programacion\utn\programacion 1\workspace\mybook\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"ArrayList.h"
+	"feed.h"
+	"parser.h"
+	"usuario.h"
+	"post.h"
+
+1563407204 source:c:\users\user\downloads\programacion\utn\programacion 1\workspace\mybook\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"parser.h"
+	"usuario.h"
+	"post.h"
+	"feed.h"
+

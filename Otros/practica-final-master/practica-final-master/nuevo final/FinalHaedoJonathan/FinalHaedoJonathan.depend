@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1532635684 source:c:\users\multitask\desktop\nuevo final\finalhaedojonathan\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"productoDep0.h"
+	"productoDep1.h"
+	"parser.h"
+	"utn.h"
+	"FuncionesProductos.h"
+
+1532635574 c:\users\multitask\desktop\nuevo final\finalhaedojonathan\arraylist.h
+
+1532569810 c:\users\multitask\desktop\nuevo final\finalhaedojonathan\productodep0.h
+
+1532570316 c:\users\multitask\desktop\nuevo final\finalhaedojonathan\productodep1.h
+
+1532569545 c:\users\multitask\desktop\nuevo final\finalhaedojonathan\parser.h
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+
+1531419524 c:\users\multitask\desktop\nuevo final\finalhaedojonathan\utn.h
+
+1532635538 c:\users\multitask\desktop\nuevo final\finalhaedojonathan\funcionesproductos.h
+
+1532623572 source:c:\users\multitask\desktop\nuevo final\finalhaedojonathan\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1532633675 source:c:\users\multitask\desktop\nuevo final\finalhaedojonathan\funcionesproductos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"productoDep0.h"
+	"productoDep1.h"
+	"parser.h"
+	"utn.h"
+	"FuncionesProductos.h"
+
+1532575640 source:c:\users\multitask\desktop\nuevo final\finalhaedojonathan\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"productoDep0.h"
+	"productoDep1.h"
+
+1532570185 source:c:\users\multitask\desktop\nuevo final\finalhaedojonathan\productodep0.c
+	"productoDep0.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1532570316 source:c:\users\multitask\desktop\nuevo final\finalhaedojonathan\productodep1.c
+	"productoDep1.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1532632546 source:c:\users\multitask\desktop\nuevo final\finalhaedojonathan\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+

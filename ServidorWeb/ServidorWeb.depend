@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1532607463 source:c:\users\user\downloads\programacion\utn\programacion 1\workspace\servidorweb\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1531445496 c:\users\user\downloads\programacion\utn\programacion 1\workspace\servidorweb\arraylist.h
+
+1563465702 source:c:\users\user\downloads\programacion\utn\programacion 1\workspace\servidorweb\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"ArrayList.h"
+	"parser.h"
+	"LogEntry.h"
+	"Service.h"
+
+1563463735 c:\users\user\downloads\programacion\utn\programacion 1\workspace\servidorweb\funciones.h
+	"ArrayList.h"
+
+1563465388 c:\users\user\downloads\programacion\utn\programacion 1\workspace\servidorweb\parser.h
+
+1563460476 c:\users\user\downloads\programacion\utn\programacion 1\workspace\servidorweb\logentry.h
+
+1563460449 c:\users\user\downloads\programacion\utn\programacion 1\workspace\servidorweb\service.h
+
+1563460476 source:c:\users\user\downloads\programacion\utn\programacion 1\workspace\servidorweb\logentry.c
+	"LogEntry.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1563465520 source:c:\users\user\downloads\programacion\utn\programacion 1\workspace\servidorweb\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"parser.h"
+	"LogEntry.h"
+	"Service.h"
+
+1563460452 source:c:\users\user\downloads\programacion\utn\programacion 1\workspace\servidorweb\service.c
+	"Service.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1563465761 source:c:\users\user\downloads\programacion\utn\programacion 1\workspace\servidorweb\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1531419524 c:\users\user\downloads\programacion\utn\programacion 1\workspace\servidorweb\utn.h
+
+1563465614 source:c:\users\user\downloads\programacion\utn\programacion 1\workspace\servidorweb\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"parser.h"
+	"funciones.h"
+	"utn.h"
+

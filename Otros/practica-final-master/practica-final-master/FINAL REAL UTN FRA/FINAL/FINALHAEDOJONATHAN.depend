@@ -1,0 +1,135 @@
+# depslib dependency file v1.0
+1532607463 source:c:\users\multitask\desktop\final real utn fra\final\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1531445496 c:\users\multitask\desktop\final real utn fra\final\arraylist.h
+
+1532617589 source:c:\users\multitask\desktop\final real utn fra\final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"productoDep0.h"
+	"productoDep1.h"
+	"parser.h"
+	"utn.h"
+	"FuncionesProductos.h"
+
+1532614877 source:c:\users\multitask\desktop\final real utn fra\final\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1531419524 c:\users\multitask\desktop\final real utn fra\final\utn.h
+
+1532575640 source:c:\users\multitask\desktop\final real utn fra\final\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"productoDep0.h"
+	"productoDep1.h"
+
+1532569810 c:\users\multitask\desktop\final real utn fra\final\producto.h
+
+1532569810 source:c:\users\multitask\desktop\final real utn fra\final\producto.c
+	"producto.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1532570185 source:c:\users\multitask\desktop\final real utn fra\final\productodep0.c
+	"productoDep0.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1532569810 c:\users\multitask\desktop\final real utn fra\final\productodep0.h
+
+1532570316 c:\users\multitask\desktop\final real utn fra\final\productodep1.h
+
+1532570316 source:c:\users\multitask\desktop\final real utn fra\final\productodep1.c
+	"productoDep1.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1532569545 c:\users\multitask\desktop\final real utn fra\final\parser.h
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+
+1532617675 c:\users\multitask\desktop\final real utn fra\final\funcionesproductos.h
+
+1532617675 source:c:\users\multitask\desktop\final real utn fra\final\funcionesproductos.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"productoDep0.h"
+	"productoDep1.h"
+	"parser.h"
+	"utn.h"
+	"FuncionesProductos.h"
+
+1532607463 source:c:\users\user\downloads\programacion\utn\programacion 1\final\practica-final-master\practica-final-master\final real utn fra\final\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1531445496 c:\users\user\downloads\programacion\utn\programacion 1\final\practica-final-master\practica-final-master\final real utn fra\final\arraylist.h
+
+1532617675 source:c:\users\user\downloads\programacion\utn\programacion 1\final\practica-final-master\practica-final-master\final real utn fra\final\funcionesproductos.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"productoDep0.h"
+	"productoDep1.h"
+	"parser.h"
+	"utn.h"
+	"FuncionesProductos.h"
+
+1532569810 c:\users\user\downloads\programacion\utn\programacion 1\final\practica-final-master\practica-final-master\final real utn fra\final\productodep0.h
+
+1532570316 c:\users\user\downloads\programacion\utn\programacion 1\final\practica-final-master\practica-final-master\final real utn fra\final\productodep1.h
+
+1532569545 c:\users\user\downloads\programacion\utn\programacion 1\final\practica-final-master\practica-final-master\final real utn fra\final\parser.h
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+
+1531419524 c:\users\user\downloads\programacion\utn\programacion 1\final\practica-final-master\practica-final-master\final real utn fra\final\utn.h
+
+1532617675 c:\users\user\downloads\programacion\utn\programacion 1\final\practica-final-master\practica-final-master\final real utn fra\final\funcionesproductos.h
+
+1532570185 source:c:\users\user\downloads\programacion\utn\programacion 1\final\practica-final-master\practica-final-master\final real utn fra\final\productodep0.c
+	"productoDep0.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1532570316 source:c:\users\user\downloads\programacion\utn\programacion 1\final\practica-final-master\practica-final-master\final real utn fra\final\productodep1.c
+	"productoDep1.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1532614877 source:c:\users\user\downloads\programacion\utn\programacion 1\final\practica-final-master\practica-final-master\final real utn fra\final\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1550767370 source:c:\users\user\downloads\programacion\utn\programacion 1\final\practica-final-master\practica-final-master\final real utn fra\final\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"productoDep0.h"
+	"productoDep1.h"
+

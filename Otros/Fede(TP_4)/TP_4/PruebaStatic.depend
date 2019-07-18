@@ -1,0 +1,157 @@
+# depslib dependency file v1.0
+1527811553 source:d:\fferniot\clase21\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"cliente.h"
+
+1527813809 "
+
+1527802593 d:\fferniot\clase21\arraylist.h
+
+1527811547 d:\fferniot\clase21\cliente.h
+
+1527812900 source:d:\fferniot\clase21\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Cliente.h"
+	"parser.h"
+
+1527812900 
+
+1527812915 d:\fferniot\clase21\parser.h
+
+1527813809 source:d:\fferniot\clase21\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"parser.h"
+	"Cliente.h"
+
+1528932332 source:/home/alumno/ProyectosDeGitHub/fferniot/ArrayList_2018/Clase21/cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"cliente.h"
+
+1528407863 /home/alumno/ProyectosDeGitHub/fferniot/ArrayList_2018/Clase21/ArrayList.h
+
+1528932239 /home/alumno/ProyectosDeGitHub/fferniot/ArrayList_2018/Clase21/cliente.h
+
+1528936968 source:/home/alumno/ProyectosDeGitHub/fferniot/ArrayList_2018/Clase21/main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"cliente.h"
+	"parser.h"
+
+1527812915 /home/alumno/ProyectosDeGitHub/fferniot/ArrayList_2018/Clase21/parser.h
+
+1528933115 source:/home/alumno/ProyectosDeGitHub/fferniot/ArrayList_2018/Clase21/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"parser.h"
+	"cliente.h"
+
+1528930185 source:/home/alumno/ProyectosDeGitHub/fferniot/ArrayList_2018/Clase21/ArrayList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1528930185 source:/home/fede/Downloads/Proyectos/tp_laboratorio_1/TP_4/ArrayList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1528407863 /home/fede/Downloads/Proyectos/tp_laboratorio_1/TP_4/ArrayList.h
+
+1529030141 source:/home/fede/Downloads/Proyectos/tp_laboratorio_1/TP_4/cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"cliente.h"
+
+1528932239 /home/fede/Downloads/Proyectos/tp_laboratorio_1/TP_4/cliente.h
+
+1528937439 source:/home/fede/Downloads/Proyectos/tp_laboratorio_1/TP_4/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"parser.h"
+	"cliente.h"
+
+1527812915 /home/fede/Downloads/Proyectos/tp_laboratorio_1/TP_4/parser.h
+
+1529030478 source:/home/fede/Downloads/Proyectos/tp_laboratorio_1/TP_4/main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"cliente.h"
+	"funciones.h"
+	"parser.h"
+
+1529030514 /home/fede/Downloads/Proyectos/tp_laboratorio_1/TP_4/funciones.h
+	"ArrayList.h"
+	"cliente.h"
+
+1529030841 source:/home/fede/Downloads/Proyectos/tp_laboratorio_1/TP_4/funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"cliente.h"
+	"funciones.h"
+	"parser.h"
+
+1529031929 source:c:\users\user\downloads\programacion\utn\programacion 1\tp\tp 4\tp_laboratorio_1-master (1)\tp_laboratorio_1-master\tp_4\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1529031929 c:\users\user\downloads\programacion\utn\programacion 1\tp\tp 4\tp_laboratorio_1-master (1)\tp_laboratorio_1-master\tp_4\arraylist.h
+
+1529031929 source:c:\users\user\downloads\programacion\utn\programacion 1\tp\tp 4\tp_laboratorio_1-master (1)\tp_laboratorio_1-master\tp_4\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"cliente.h"
+	"funciones.h"
+	"parser.h"
+
+1529031929 c:\users\user\downloads\programacion\utn\programacion 1\tp\tp 4\tp_laboratorio_1-master (1)\tp_laboratorio_1-master\tp_4\cliente.h
+
+1529031929 c:\users\user\downloads\programacion\utn\programacion 1\tp\tp 4\tp_laboratorio_1-master (1)\tp_laboratorio_1-master\tp_4\funciones.h
+	"ArrayList.h"
+	"cliente.h"
+
+1529031929 c:\users\user\downloads\programacion\utn\programacion 1\tp\tp 4\tp_laboratorio_1-master (1)\tp_laboratorio_1-master\tp_4\parser.h
+
+1529031929 source:c:\users\user\downloads\programacion\utn\programacion 1\tp\tp 4\tp_laboratorio_1-master (1)\tp_laboratorio_1-master\tp_4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"cliente.h"
+	"funciones.h"
+	"parser.h"
+
+1529031929 source:c:\users\user\downloads\programacion\utn\programacion 1\tp\tp 4\tp_laboratorio_1-master (1)\tp_laboratorio_1-master\tp_4\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"parser.h"
+	"cliente.h"
+
+1529609131 source:c:\users\user\downloads\programacion\utn\programacion 1\tp\tp 4\tp_laboratorio_1-master (1)\tp_laboratorio_1-master\tp_4\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"cliente.h"
+

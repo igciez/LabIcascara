@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1529765494 source:e:\clase sabado 23-06\clase 21-06\ejerciciopre2doparcialv2\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1529764832 e:\clase sabado 23-06\clase 21-06\ejerciciopre2doparcialv2\arraylist.h
+
+1529763382 source:e:\clase sabado 23-06\clase 21-06\ejerciciopre2doparcialv2\empleado.c
+	"Empleado.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1529763392 e:\clase sabado 23-06\clase 21-06\ejerciciopre2doparcialv2\empleado.h
+	"ArrayList.h"
+	"utn.h"
+	"parser.h"
+
+1529764282 e:\clase sabado 23-06\clase 21-06\ejerciciopre2doparcialv2\utn.h
+
+1529620128 e:\clase sabado 23-06\clase 21-06\ejerciciopre2doparcialv2\parser.h
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+
+1529759826 source:e:\clase sabado 23-06\clase 21-06\ejerciciopre2doparcialv2\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Empleado.h"
+
+1530222930 source:e:\clase sabado 23-06\clase 21-06\ejerciciopre2doparcialv2\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1531445180 source:e:\clase sabado 23-06\clase 21-06\ejerciciopre2doparcialv2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"ArrayList.h"
+	"utn.h"
+	"parser.h"
+
+1529765494 source:e:\clase sabado 23-06\clase 21-06\parcial2\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1531445496 e:\clase sabado 23-06\clase 21-06\parcial2\arraylist.h
+
+1529759826 source:e:\clase sabado 23-06\clase 21-06\parcial2\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Empleado.h"
+
+1531445616 e:\clase sabado 23-06\clase 21-06\parcial2\empleado.h
+	"ArrayList.h"
+	"utn.h"
+	"parser.h"
+
+1531419524 e:\clase sabado 23-06\clase 21-06\parcial2\utn.h
+
+1529620128 e:\clase sabado 23-06\clase 21-06\parcial2\parser.h
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+
+1531446342 source:e:\clase sabado 23-06\clase 21-06\parcial2\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1531446422 source:e:\clase sabado 23-06\clase 21-06\parcial2\empleado.c
+	"Empleado.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1531445650 source:e:\clase sabado 23-06\clase 21-06\parcial2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"ArrayList.h"
+	"utn.h"
+	"parser.h"
+

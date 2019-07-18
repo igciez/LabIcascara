@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1532607463 source:c:\users\user\downloads\programacion\utn\programacion 1\workspace\pruebafinal\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1531445496 c:\users\user\downloads\programacion\utn\programacion 1\workspace\pruebafinal\arraylist.h
+
+1563313713 source:c:\users\user\downloads\programacion\utn\programacion 1\workspace\pruebafinal\depositoi.c
+	"depositoI.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1563322585 c:\users\user\downloads\programacion\utn\programacion 1\workspace\pruebafinal\depositoi.h
+
+1563316347 source:c:\users\user\downloads\programacion\utn\programacion 1\workspace\pruebafinal\depositoii.c
+	"depositoII.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1563322610 c:\users\user\downloads\programacion\utn\programacion 1\workspace\pruebafinal\depositoii.h
+
+1563383666 source:c:\users\user\downloads\programacion\utn\programacion 1\workspace\pruebafinal\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1531419524 c:\users\user\downloads\programacion\utn\programacion 1\workspace\pruebafinal\utn.h
+
+1563390311 source:c:\users\user\downloads\programacion\utn\programacion 1\workspace\pruebafinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"utn.h"
+	"ArrayList.h"
+	"funciones.h"
+
+1563315822 c:\users\user\downloads\programacion\utn\programacion 1\workspace\pruebafinal\parser.h
+	"Arraylist.h"
+
+1563316903 source:c:\users\user\downloads\programacion\utn\programacion 1\workspace\pruebafinal\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"parser.h"
+	"depositoI.h"
+	"depositoII.h"
+
+1563390283 c:\users\user\downloads\programacion\utn\programacion 1\workspace\pruebafinal\funciones.h
+	"ArrayList.h"
+	"depositoI.h"
+
+1563390500 source:c:\users\user\downloads\programacion\utn\programacion 1\workspace\pruebafinal\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"ArrayList.h"
+	"depositoI.h"
+	"depositoII.h"
+	"utn.h"
+

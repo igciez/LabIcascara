@@ -1,0 +1,2 @@
+Fecha;Hora;Nombre servicio;Mensaje de error;E-mail soporte
+09:38;09/07/2017;ScriptCache.exe;Out of memory;pedro@soporte.com.ar
